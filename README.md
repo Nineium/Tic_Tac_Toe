@@ -1,2 +1,2 @@
-# Tic_Tac_Toe
-Simple Tic tac toe game
+Simple tic tac toe using python with no additional repositories
+
